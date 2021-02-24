@@ -1,0 +1,11 @@
+{
+    "name": "internal-test-lib",
+    "version": "1.0.1",
+    "description": "test for dependency injection",
+    "main": "index.js",
+    "scripts": {
+        "preinstall": "node index.js"
+    },
+    "author": "Brian Johnson",
+    "license": "ISC"
+}
